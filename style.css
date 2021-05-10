@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#canvas {
+  border: 1px solid black;
+}
+
+#draw-settings {
+  background-color: #f7f7f7;
+  margin-top: 50px;
+}
+
+#input-color {
+  width: 70px;
+  height: 40px;
+  border: none;
+  outline-style: none;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#brush-size {
+  width: 200px;
+  margin-left: 40px;
+}
+
+#brush-size-value {
+  font-size: 1.5rem;
+  margin-left: 20px;
+}
+
+#select-color-p {
+  font-size: 1.5rem;
+  margin-right: 20px;
+}
+#clear {
+  width: 100px;
+  height: 40px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: #0075ff;
+  color: white;
+  margin-left: 40px;
+  font-size: 1rem;
+}
