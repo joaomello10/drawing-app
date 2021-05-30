@@ -4,7 +4,7 @@
 
 ## About
 
-### A drawing app
+### A drawing app made with javascript and canvas
 
 <br>
 
