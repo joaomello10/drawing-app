@@ -1,14 +1,14 @@
-<h1>Drawing app</h1>
+
+<h1 align='center'>Drawing app</h1>
+
+<h2 align='center'>About</h2>
+
+<h3 align='center'>A drawing app made with javascript and canvas</h3>
+
 
 <img src='img/gif-project.gif'>
 
-## About
-
-### A drawing app made with javascript and canvas
-
-<br>
-
-## Technologies
+## 🚀 Technologies
 
 <ul>
     <li>Javascript</li>
